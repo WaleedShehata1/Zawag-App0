@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809512268949",
+    "project_id": "zawag3-e6346",
+    "storage_bucket": "zawag3-e6346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809512268949:android:3801f866a0dc8e79e6579c",
+        "android_client_info": {
+          "package_name": "com.example.effa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUkw6IKwx7htUl1W2MSaoI4C2Y33gEC4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
